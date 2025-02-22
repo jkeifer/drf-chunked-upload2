@@ -150,7 +150,7 @@ Add any of these variables into your project settings to override them.
 - Storage system (should be a class)
 - Default: `None` (use default storage system)
 
-`DRF_CHUNKED_UPLOAD_USER_RESTRICED`
+`DRF_CHUNKED_UPLOAD_USER_RESTRICTED`
 
 - Boolean that determines whether only the user who created an upload can
   view/continue an upload.
